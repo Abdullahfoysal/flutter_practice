@@ -29,16 +29,16 @@ class _HomePageState extends State<HomePage> {
             icon: new Icon(Icons.home),
           ),
           new BottomNavigationBarItem(
-            title: new Text(''),
-            icon: new Icon(Icons.home),
+            title: new Text('Favourite'),
+            icon: new Icon(Icons.favorite),
           ),
           new BottomNavigationBarItem(
-            title: new Text(''),
-            icon: new Icon(Icons.home),
+            title: new Text('Cart'),
+            icon: new Icon(Icons.card_travel),
           ),
           new BottomNavigationBarItem(
-            title: new Text(''),
-            icon: new Icon(Icons.home),
+            title: new Text('Back'),
+            icon: new Icon(Icons.arrow_back),
           ),
         ],
 
